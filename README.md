@@ -6,9 +6,9 @@
 **Email:** daniel.barragan at correo.icesi.edu.co  
 **Students:**  
 Juan Camilo Swan - A00054620  
-Carlos Andres Afanador - A00054620  
-Tomas Julian Lemus - A00054620  
-Luis Alejandro Trochez - A00054620  
+Carlos Andres Afanador - A00054652  
+Tomas Julian Lemus - A00054616  
+Luis Alejandro Trochez - A00054648
 **Git URL:** https://github.com/juanswan13/sd2018b-project/tree/jcswan/develop  
 
 ## Objetivos
